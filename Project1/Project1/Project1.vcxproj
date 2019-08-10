@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="一个简单的程序.c" />
+    <ClCompile Include="二级指针.c" />
     <ClCompile Include="类型决定指针操作.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
