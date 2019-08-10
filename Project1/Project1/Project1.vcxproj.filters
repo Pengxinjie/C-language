@@ -18,5 +18,8 @@
     <ClCompile Include="一个简单的程序.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="类型决定指针操作.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
