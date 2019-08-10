@@ -24,5 +24,8 @@
     <ClCompile Include="二级指针.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="指针遍历一维数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
