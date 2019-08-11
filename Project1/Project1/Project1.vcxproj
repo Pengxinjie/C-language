@@ -125,7 +125,12 @@
   <ItemGroup>
     <ClCompile Include="一个简单的程序.c" />
     <ClCompile Include="二级指针.c" />
+    <ClCompile Include="指针与下标运算 深入.c" />
+    <ClCompile Include="指针与下标运算.c" />
+    <ClCompile Include="指针数组.c" />
     <ClCompile Include="指针遍历一维数组.c" />
+    <ClCompile Include="数组指针.c" />
+    <ClCompile Include="简单数组的拉链结构.c" />
     <ClCompile Include="类型决定指针操作.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

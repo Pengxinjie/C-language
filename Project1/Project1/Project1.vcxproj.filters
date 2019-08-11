@@ -27,5 +27,20 @@
     <ClCompile Include="指针遍历一维数组.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="指针与下标运算.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针与下标运算 深入.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="简单数组的拉链结构.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组指针.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
