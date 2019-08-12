@@ -42,5 +42,17 @@
     <ClCompile Include="数组指针.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="二维数组与指针.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="利用指针遍历二维数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针的大小.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="栈区大小.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
