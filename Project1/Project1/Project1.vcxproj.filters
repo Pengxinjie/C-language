@@ -78,5 +78,17 @@
     <ClCompile Include="realloc.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="数据类型测试.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="海岛奇兵小算法.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据类型编程练习.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="循环编程练习及测试.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
