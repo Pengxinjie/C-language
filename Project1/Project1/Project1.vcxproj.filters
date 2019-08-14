@@ -54,5 +54,29 @@
     <ClCompile Include="栈区大小.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="malloc.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="size_t.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc注意点.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="free.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc一维数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="一位数组指针与二维数组指针.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="calloc.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="realloc.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
