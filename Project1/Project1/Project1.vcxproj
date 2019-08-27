@@ -134,6 +134,8 @@
     <ClCompile Include="一位数组指针与二维数组指针.c" />
     <ClCompile Include="二级指针.c" />
     <ClCompile Include="二维数组与指针.c" />
+    <ClCompile Include="无参数有返回值.c" />
+    <ClCompile Include="函数的概念及意义.c" />
     <ClCompile Include="利用指针遍历二维数组.c" />
     <ClCompile Include="循环编程练习及测试.c" />
     <ClCompile Include="指针与下标运算 深入.c" />
@@ -144,7 +146,9 @@
     <ClCompile Include="数据类型测试.c" />
     <ClCompile Include="数据类型编程练习.c" />
     <ClCompile Include="数组指针.c" />
+    <ClCompile Include="无参数无返回值.c" />
     <ClCompile Include="栈区大小.c" />
+    <ClCompile Include="测试.c" />
     <ClCompile Include="海岛奇兵小算法.c" />
     <ClCompile Include="简单数组的拉链结构.c" />
     <ClCompile Include="类型决定指针操作.c" />
