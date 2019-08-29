@@ -195,5 +195,32 @@
     <ClCompile Include="内存对齐.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="联合union.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="枚举的声明和意义.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="枚举的大小.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="显式类型转换简介.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针的强制类型转换.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="大小端存储的区别.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="typedef.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="宏define简介.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="参数宏.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
