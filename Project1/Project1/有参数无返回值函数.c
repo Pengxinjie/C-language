@@ -1,18 +1,15 @@
 //#include<stdio.h>
 //#include<stdlib.h>
 //
-//void fun(void)
+//void fun(int a, double d)
 //{
-//	printf("ÎÒÊÇº¯Êý\n");
+//	printf("%d,%.2lf\n", a, d);
 //}
 //
 //int main(void)
 //{
-//	fun();
-//	void(*p)(void)  = &fun;
-//	(&(*p))();
-//	p();
-//	(*p)();
+//	fun(1, 1.1);
+//
 //
 //	system("pause");
 //	return 0;

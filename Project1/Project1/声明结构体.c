@@ -1,16 +1,17 @@
 //#include<stdio.h>
 //#include<stdlib.h>
 //
-//int fun(void)
+//struct stu
 //{
-//	printf("ÎÒÊÇº¯Êı\n");
-//	return 4;
-//}
+//	char name[10];
+//	int age;
+//	double high;
+//	char num[];
+//};
 //
 //int main(void)
 //{
-//	int a = fun();
-//	printf("%d\n", a);
+//
 //
 //	system("pause");
 //	return 0;

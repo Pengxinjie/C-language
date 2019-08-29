@@ -102,5 +102,98 @@
     <ClCompile Include="无参数有返回值.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="return详解.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="有参数无返回值函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="通过参数修改外部的值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="通过函数修改指针变量的值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="交换两个变量的值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="一维数组做参数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二维数组做形参.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="有参数有返回值的函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="递归函数对比循环理解一.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="参数个数不确定的函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf与输入缓冲区.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf_s,getchar,_getch.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常量字符串初始化字符数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符数组的赋值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strcpy_s,starncpy,strncpy_s.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串的输入.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="汉字与字符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strlen,strcmp.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strcat,itoa,atoi,spintf.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="转义字符和转换说明符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="大小写字母转换,.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串数组和二维字符数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="声明结构体.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体类型变量的声明与定义.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体取成员运算符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针成员和函数成员.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体嵌套.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="内存对齐.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
