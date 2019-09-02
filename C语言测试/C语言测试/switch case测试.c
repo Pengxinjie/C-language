@@ -16,7 +16,7 @@
 //		//break;
 //	case 4:printf("d");
 //		break;
-//	default:printf("输入数字无效");
+//	default:printf("杈撳叆鏁板瓧鏃犳晥");
 //	}
 //
 //
