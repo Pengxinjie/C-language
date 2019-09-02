@@ -222,5 +222,26 @@
     <ClCompile Include="参数宏.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="命令行参数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="随机数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="位运算符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fopen.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="文本模式和二进制模式.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fwrite.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fread.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

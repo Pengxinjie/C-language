@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{F9589950-390B-44FD-8941-635D6350F42B}</ProjectGuid>
-    <RootNamespace>Project1</RootNamespace>
+    <ProjectGuid>{032B2A71-0975-4E0F-B30F-BF23D5498E66}</ProjectGuid>
+    <RootNamespace>多文件</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -29,27 +29,27 @@
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
     <PlatformToolset>v142</PlatformToolset>
-    <CharacterSet>MultiByte</CharacterSet>
+    <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
     <PlatformToolset>v142</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
-    <CharacterSet>MultiByte</CharacterSet>
+    <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
     <PlatformToolset>v142</PlatformToolset>
-    <CharacterSet>MultiByte</CharacterSet>
+    <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
     <PlatformToolset>v142</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
-    <CharacterSet>MultiByte</CharacterSet>
+    <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
   <ImportGroup Label="ExtensionSettings">
@@ -123,82 +123,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="calloc.c" />
-    <ClCompile Include="fopen.c" />
-    <ClCompile Include="fread.c" />
-    <ClCompile Include="free.c" />
-    <ClCompile Include="fwrite.c" />
-    <ClCompile Include="malloc.c" />
-    <ClCompile Include="malloc一维数组.c" />
-    <ClCompile Include="malloc注意点.c" />
-    <ClCompile Include="realloc.c" />
-    <ClCompile Include="return详解.c" />
-    <ClCompile Include="scanf_s,getchar,_getch.c" />
-    <ClCompile Include="scanf与输入缓冲区.c" />
-    <ClCompile Include="size_t.c" />
-    <ClCompile Include="strcat,itoa,atoi,spintf.c" />
-    <ClCompile Include="strcpy_s,starncpy,strncpy_s.c" />
-    <ClCompile Include="strlen,strcmp.c" />
-    <ClCompile Include="typedef.c" />
-    <ClCompile Include="一个简单的程序.c" />
-    <ClCompile Include="一位数组指针与二维数组指针.c" />
-    <ClCompile Include="一维数组做参数.c" />
-    <ClCompile Include="二级指针.c" />
-    <ClCompile Include="二维数组与指针.c" />
-    <ClCompile Include="二维数组做形参.c" />
-    <ClCompile Include="交换两个变量的值.c" />
-    <ClCompile Include="位运算符.c" />
-    <ClCompile Include="内存对齐.c" />
-    <ClCompile Include="参数个数不确定的函数.c" />
-    <ClCompile Include="参数宏.c" />
-    <ClCompile Include="命令行参数.c" />
-    <ClCompile Include="声明结构体.c" />
-    <ClCompile Include="大小写字母转换,.c" />
-    <ClCompile Include="大小端存储的区别.c" />
-    <ClCompile Include="字符串.c" />
-    <ClCompile Include="字符串数组和二维字符数组.c" />
-    <ClCompile Include="字符串的输入.c" />
-    <ClCompile Include="字符数组.c" />
-    <ClCompile Include="字符数组的赋值.c" />
-    <ClCompile Include="宏define简介.c" />
-    <ClCompile Include="常量字符串初始化字符数组.c" />
-    <ClCompile Include="指针成员和函数成员.c" />
-    <ClCompile Include="指针的强制类型转换.c" />
-    <ClCompile Include="文本模式和二进制模式.c" />
-    <ClCompile Include="无参数有返回值.c" />
-    <ClCompile Include="函数的概念及意义.c" />
-    <ClCompile Include="利用指针遍历二维数组.c" />
-    <ClCompile Include="循环编程练习及测试.c" />
-    <ClCompile Include="指针与下标运算 深入.c" />
-    <ClCompile Include="指针与下标运算.c" />
-    <ClCompile Include="指针数组.c" />
-    <ClCompile Include="指针的大小.c" />
-    <ClCompile Include="指针遍历一维数组.c" />
-    <ClCompile Include="数据类型测试.c" />
-    <ClCompile Include="数据类型编程练习.c" />
-    <ClCompile Include="数组指针.c" />
-    <ClCompile Include="无参数无返回值.c" />
-    <ClCompile Include="有参数无返回值函数.c" />
-    <ClCompile Include="有参数有返回值的函数.c" />
-    <ClCompile Include="枚举的声明和意义.c" />
-    <ClCompile Include="枚举的大小.c" />
-    <ClCompile Include="栈区大小.c" />
-    <ClCompile Include="汉字与字符.c" />
-    <ClCompile Include="测试.c" />
-    <ClCompile Include="海岛奇兵小算法.c" />
-    <ClCompile Include="简单数组的拉链结构.c" />
-    <ClCompile Include="类型决定指针操作.c" />
-    <ClCompile Include="结构体取成员运算符.c" />
-    <ClCompile Include="结构体嵌套.c" />
-    <ClCompile Include="结构体数组.c" />
-    <ClCompile Include="结构体类型变量的声明与定义.c" />
-    <ClCompile Include="联合union.c" />
-    <ClCompile Include="转义字符和转换说明符.c" />
-    <ClCompile Include="递归函数对比循环理解一.c" />
-    <ClCompile Include="通过函数修改指针变量的值.c" />
-    <ClCompile Include="通过参数修改外部的值.c" />
-    <ClCompile Include="显式类型转换简介.c" />
-    <ClCompile Include="随机数.c" />
+    <ClCompile Include="加乘.c" />
+    <ClCompile Include="减除.c" />
+    <ClCompile Include="主函数文件.c" />
+    <ClCompile Include="英寸厘米转换.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="加乘.h" />
+    <ClInclude Include="减除.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
