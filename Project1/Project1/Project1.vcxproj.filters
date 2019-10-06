@@ -243,5 +243,14 @@
     <ClCompile Include="fread.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="贪吃蛇.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C语言知识点总结1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针知识点总结.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

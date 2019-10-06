@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="calloc.c" />
+    <ClCompile Include="C语言知识点总结1.c" />
     <ClCompile Include="fopen.c" />
     <ClCompile Include="fread.c" />
     <ClCompile Include="free.c" />
@@ -164,6 +165,7 @@
     <ClCompile Include="常量字符串初始化字符数组.c" />
     <ClCompile Include="指针成员和函数成员.c" />
     <ClCompile Include="指针的强制类型转换.c" />
+    <ClCompile Include="指针知识点总结.c" />
     <ClCompile Include="文本模式和二进制模式.c" />
     <ClCompile Include="无参数有返回值.c" />
     <ClCompile Include="函数的概念及意义.c" />
@@ -193,6 +195,7 @@
     <ClCompile Include="结构体数组.c" />
     <ClCompile Include="结构体类型变量的声明与定义.c" />
     <ClCompile Include="联合union.c" />
+    <ClCompile Include="贪吃蛇.c" />
     <ClCompile Include="转义字符和转换说明符.c" />
     <ClCompile Include="递归函数对比循环理解一.c" />
     <ClCompile Include="通过函数修改指针变量的值.c" />
