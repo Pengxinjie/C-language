@@ -252,5 +252,37 @@
     <ClCompile Include="指针知识点总结.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="指针测试.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构与算法测试.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="第十四章：结构与其他数据形式.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="第四章：字符串的格式化输入输出.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="第十二章测试.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="第九章函数测试.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="第十一章字符串与字符串函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="可变数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="链表.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="node.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
