@@ -4,17 +4,18 @@
 #include"node.h"
 typedef struct _List
 {
-	J* head;
-	J* tail;
-}List;
+	J* head;//第一个结构体
+	J* tail;//
+}List;//类型重命名  List即表示struct _List结构体(一部分装数值，一部分装地址)
 
-void add(List* plist, int number);
-void print(List* plist);
+void add(List* plist, int number);//链表添加成员
+void print(List* plist);//遍历链表
+
 int main(void)
 {
-	List list;
-	list.head =list.tail= NULL;
-	int number;
+	List list;//定义一个结构体变量
+	list.head =list.tail= NULL;//首尾初始化为NULL
+	int number;//链表的值
 	int i = 0;
 	do {
 		scanf("%d", &number);
@@ -69,13 +70,6 @@ int main(void)
 	system("pause");
 	return 0;
 }
-
-
-
-
-
-
-
 
 
 void add(List*plist,int number)

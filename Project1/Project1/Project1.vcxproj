@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="calloc.c" />
     <ClCompile Include="C语言知识点总结1.c" />
+    <ClCompile Include="films1.c" />
     <ClCompile Include="fopen.c" />
     <ClCompile Include="fread.c" />
     <ClCompile Include="free.c" />
@@ -210,6 +211,7 @@
     <ClCompile Include="通过参数修改外部的值.c" />
     <ClCompile Include="显式类型转换简介.c" />
     <ClCompile Include="链表.c" />
+    <ClCompile Include="链表1.c" />
     <ClCompile Include="随机数.c" />
   </ItemGroup>
   <ItemGroup>
