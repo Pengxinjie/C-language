@@ -53,6 +53,7 @@ void ScanList(void)
 		ptemp = ptemp->pNext;
 		return;
 	}
+
 	printf("Á´±íÎª¿Õ£¡");
 	return;
 }
