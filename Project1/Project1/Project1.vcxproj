@@ -151,6 +151,7 @@
     <ClCompile Include="交换两个变量的值.c" />
     <ClCompile Include="位运算符.c" />
     <ClCompile Include="内存对齐.c" />
+    <ClCompile Include="判断几位数.c" />
     <ClCompile Include="参数个数不确定的函数.c" />
     <ClCompile Include="参数宏.c" />
     <ClCompile Include="可变数组.c" />
@@ -158,6 +159,7 @@
     <ClCompile Include="声明结构体.c" />
     <ClCompile Include="大小写字母转换,.c" />
     <ClCompile Include="大小端存储的区别.c" />
+    <ClCompile Include="无空头链表.c" />
     <ClCompile Include="字符串.c" />
     <ClCompile Include="字符串数组和二维字符数组.c" />
     <ClCompile Include="字符串的输入.c" />
@@ -186,6 +188,7 @@
     <ClCompile Include="无参数无返回值.c" />
     <ClCompile Include="有参数无返回值函数.c" />
     <ClCompile Include="有参数有返回值的函数.c" />
+    <ClCompile Include="有空头链表.c" />
     <ClCompile Include="枚举的声明和意义.c" />
     <ClCompile Include="枚举的大小.c" />
     <ClCompile Include="栈区大小.c" />

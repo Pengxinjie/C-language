@@ -285,6 +285,15 @@
     <ClCompile Include="链表1.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="无空头链表.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="有空头链表.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断几位数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="node.h">
