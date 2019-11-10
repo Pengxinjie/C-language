@@ -90,9 +90,6 @@
     <ClCompile Include="循环编程练习及测试.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="测试.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="函数的概念及意义.c">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -292,6 +289,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="判断几位数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算机辅助教学系统.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

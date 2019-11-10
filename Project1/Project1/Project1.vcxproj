@@ -193,7 +193,7 @@
     <ClCompile Include="枚举的大小.c" />
     <ClCompile Include="栈区大小.c" />
     <ClCompile Include="汉字与字符.c" />
-    <ClCompile Include="测试.c" />
+    <ClCompile Include="计算机辅助教学系统.c" />
     <ClCompile Include="海岛奇兵小算法.c" />
     <ClCompile Include="第九章函数测试.c" />
     <ClCompile Include="第十一章字符串与字符串函数.c" />
