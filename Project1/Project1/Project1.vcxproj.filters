@@ -294,6 +294,12 @@
     <ClCompile Include="计算机辅助教学系统.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="测试.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="node.h">
